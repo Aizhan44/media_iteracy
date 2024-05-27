@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="rBVvLThkHb54f" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>CAM 1.3</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:string>Элективті курс</lom:string>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicalLearningTime>
+<lom:duration>PT1H0M0S</lom:duration>
+</lom:typicalLearningTime>
+</lom:educational>
+<lom:metaMetadata>
+<lom:metadataSchema>LOMv1.0</lom:metadataSchema>
+<lom:metadataSchema>SCORM_CAM_v1.3</lom:metadataSchema>
+</lom:metaMetadata>
+</lom:lom>
+</metadata>
+<organizations default="rBVvLThkHb54f_organization">
+<organization identifier="rBVvLThkHb54f_organization">
+<title>Элективті курс</title>
+<item identifier="C56D88D5-BB9A-4FC4-AC28-0463D9D2DA54" identifierref="resource">
+<title>Элективті курс</title>
+<imsss:sequencing>
+<imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+</imsss:sequencing>
+</item>
+<imsss:sequencing>
+<imsss:controlMode flow="true"/>
+</imsss:sequencing>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormType="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/thmb1.jpg"/>
+<file href="res/data/slide1.js"/>
+<file href="res/data/slide1.css"/>
+<file href="res/data/thmb2.png"/>
+<file href="res/data/slide2.js"/>
+<file href="res/data/slide2.css"/>
+<file href="res/data/thmb3.png"/>
+<file href="res/data/slide3.js"/>
+<file href="res/data/slide3.css"/>
+<file href="res/data/thmb4.png"/>
+<file href="res/data/video1.mp4"/>
+<file href="res/data/slide4.js"/>
+<file href="res/data/slide4.css"/>
+<file href="res/data/thmb5.png"/>
+<file href="res/data/intr1.js"/>
+<file href="res/data/intr1/fonts/fnt0.woff"/>
+<file href="res/data/intr1/fonts/fnt1.woff"/>
+<file href="res/data/intr1/fonts/fnt2.woff"/>
+<file href="res/data/intr1/fonts/fnt3.woff"/>
+<file href="res/data/intr1/images/img-157286a9a31d4da8868ce20390d861582e6c178e.jpg"/>
+<file href="res/data/intr1/images/img-6a2c09c1db5f43ad5940419abaf68ba1b18d29cb.jpg"/>
+<file href="res/data/intr1/images/interaction_bg_0.png"/>
+<file href="res/data/thmb6.png"/>
+<file href="res/data/intr2.js"/>
+<file href="res/data/intr2/fonts/fnt0.woff"/>
+<file href="res/data/intr2/fonts/fnt1.woff"/>
+<file href="res/data/intr2/images/img-9bd9b3c5cda4612641961f77898ada3d23166aff.png"/>
+<file href="res/data/intr2/images/img-ab206e5ea6478493699869a47cb7f9e610e9de59.jpg"/>
+<file href="res/data/intr2/images/img-be723eb9b1281db7a11666d3bdf9adc83cd73632.jpg"/>
+<file href="res/data/intr2/images/interaction_bg_0.png"/>
+<file href="res/data/thmb7.png"/>
+<file href="res/data/intr3.js"/>
+<file href="res/data/intr3/fonts/fnt0.woff"/>
+<file href="res/data/intr3/fonts/fnt1.woff"/>
+<file href="res/data/intr3/fonts/fnt2.woff"/>
+<file href="res/data/intr3/images/img-4229e2c6ef0659b4ea99b6f8749f1d5cb70d9aae.png"/>
+<file href="res/data/intr3/images/img-4d6877607be84d1615204edadc93dbb2cd0b58da.jpg"/>
+<file href="res/data/intr3/images/img-9472b5cd09894a16885af16a20feaeaaf64a2adc.png"/>
+<file href="res/data/intr3/images/img-e7476be4260a098b4f4599bac522e3cbc00a23f3.png"/>
+<file href="res/data/intr3/images/interaction_bg_0.png"/>
+<file href="res/data/intr3/videos/video-4229e2c6ef0659b4ea99b6f8749f1d5cb70d9aae.mp4"/>
+<file href="res/data/intr3/videos/video-4d6877607be84d1615204edadc93dbb2cd0b58da.mp4"/>
+<file href="res/data/intr3/videos/video-9472b5cd09894a16885af16a20feaeaaf64a2adc.mp4"/>
+<file href="res/data/intr3/videos/video-e7476be4260a098b4f4599bac522e3cbc00a23f3.mp4"/>
+<file href="res/data/thmb8.png"/>
+<file href="res/data/slide8.js"/>
+<file href="res/data/slide8.css"/>
+<file href="res/data/thmb9.png"/>
+<file href="res/data/video2.mp4"/>
+<file href="res/data/slide9.js"/>
+<file href="res/data/slide9.css"/>
+<file href="res/data/thmb10.png"/>
+<file href="res/data/slide10.js"/>
+<file href="res/data/slide10.css"/>
+<file href="res/data/thmb11.png"/>
+<file href="res/data/slide11.js"/>
+<file href="res/data/slide11.css"/>
+<file href="res/data/thmb12.png"/>
+<file href="res/data/slide12.js"/>
+<file href="res/data/slide12.css"/>
+<file href="res/data/thmb13.png"/>
+<file href="res/data/slide13.js"/>
+<file href="res/data/slide13.css"/>
+<file href="res/data/thmb14.png"/>
+<file href="res/data/slide14.js"/>
+<file href="res/data/slide14.css"/>
+<file href="res/data/thmb15.png"/>
+<file href="res/data/intr4.js"/>
+<file href="res/data/intr4/fonts/fnt0.woff"/>
+<file href="res/data/intr4/fonts/fnt1.woff"/>
+<file href="res/data/intr4/fonts/fnt2.woff"/>
+<file href="res/data/intr4/fonts/fnt3.woff"/>
+<file href="res/data/intr4/fonts/fnt4.woff"/>
+<file href="res/data/intr4/images/img-56009b07f706c507b76d49f04dc825945fac6126.jpg"/>
+<file href="res/data/intr4/images/img-56392c3a05d6c598225a40492012ee9120034a45.jpg"/>
+<file href="res/data/intr4/images/img-90bb38a69eb8d3ab9c0264d80d689f9246c473d3.jpg"/>
+<file href="res/data/intr4/images/img-9d0302d3b2e3707d465bad9d47ca82e277141431.jpg"/>
+<file href="res/data/intr4/images/img-c0c8916c1fff1daf791da14c6272d20edaa70daf.png"/>
+<file href="res/data/intr4/images/img-d5ac6c04837597706e56419a8dc7974557574bb6.png"/>
+<file href="res/data/intr4/images/img-e995f87bc898851ff412c54394bed2ab5c01bb45.jpg"/>
+<file href="res/data/intr4/images/interaction_bg_0.png"/>
+<file href="res/data/thmb16.png"/>
+<file href="res/data/slide16.js"/>
+<file href="res/data/slide16.css"/>
+<file href="res/data/thmb17.png"/>
+<file href="res/data/slide17.js"/>
+<file href="res/data/slide17.css"/>
+<file href="res/data/thmb18.png"/>
+<file href="res/data/slide18.js"/>
+<file href="res/data/slide18.css"/>
+<file href="res/data/thmb19.png"/>
+<file href="res/data/slide19.js"/>
+<file href="res/data/slide19.css"/>
+<file href="res/data/thmb20.png"/>
+<file href="res/data/scenario1.js"/>
+<file href="res/data/scenario1/fnt1.woff"/>
+<file href="res/data/scenario1/fnt1b.woff"/>
+<file href="res/data/scenario1/fnt1bi.woff"/>
+<file href="res/data/scenario1/fnt1i.woff"/>
+<file href="res/data/scenario1/html5-unsupported.html"/>
+<file href="res/data/scenario1/html5.png"/>
+<file href="res/data/scenario1/img0.jpg"/>
+<file href="res/data/scenario1/img1.png"/>
+<file href="res/data/thmb21.png"/>
+<file href="res/data/intr5.js"/>
+<file href="res/data/intr5/fonts/fnt0.woff"/>
+<file href="res/data/intr5/fonts/fnt1.woff"/>
+<file href="res/data/intr5/images/img-3677246b7378b20376b35e314c38ca1f619c685d.jpg"/>
+<file href="res/data/intr5/images/img-70d9b0ad09c9d783b6a7fb655e0ed99abfdbcaab.jpg"/>
+<file href="res/data/intr5/images/img-b3d57ddef410a3f4da17b592d50db3fa2efe3dd9.png"/>
+<file href="res/data/intr5/images/interaction_bg_0.png"/>
+<file href="res/data/thmb22.png"/>
+<file href="res/data/slide22.js"/>
+<file href="res/data/slide22.css"/>
+<file href="res/data/thmb23.png"/>
+<file href="res/data/video3.mp4"/>
+<file href="res/data/slide23.js"/>
+<file href="res/data/slide23.css"/>
+<file href="res/data/thmb24.png"/>
+<file href="res/data/video4.mp4"/>
+<file href="res/data/slide24.js"/>
+<file href="res/data/slide24.css"/>
+<file href="res/data/thmb25.png"/>
+<file href="res/data/video5.mp4"/>
+<file href="res/data/slide25.js"/>
+<file href="res/data/slide25.css"/>
+<file href="res/data/thmb26.png"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/images/img-18ed57841af5e0d88b456bdf4a17518a49527888.jpg"/>
+<file href="res/data/quiz1/images/img-28d73486d9f9e6823ba4df9c0f3e2476f787b21c.jpg"/>
+<file href="res/data/quiz1/images/img-345c94199429309661454db0dd75ae3d69d756e5.jpg"/>
+<file href="res/data/quiz1/images/img-430e80c7b37298cdf39b192d9e48e4f0af48c807.jpg"/>
+<file href="res/data/quiz1/images/img-4371bb81dae95a1ff651646fa0c3af4154141140.png"/>
+<file href="res/data/quiz1/images/img-492cd6c2518e5ede6be78d0f2b9782656bab87ea.jpg"/>
+<file href="res/data/quiz1/images/img-58789bfee3d8907a1351d2272a8ecb050a78b658.png"/>
+<file href="res/data/quiz1/images/img-e315ec651c81005679b30d488fdbe18917ad95fd.jpg"/>
+<file href="res/data/quiz1/images/img-ebaf991b53da0d973c035f2aed3f8e45fadf2623.jpg"/>
+<file href="res/data/quiz1/images/img-f6f3e6c809fb90c3c37fcb16d5a1a9a557f05201.jpg"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/thmb27.png"/>
+<file href="res/data/slide27.js"/>
+<file href="res/data/slide27.css"/>
+<file href="res/data/thmb28.png"/>
+<file href="res/data/slide28.js"/>
+<file href="res/data/slide28.css"/>
+<file href="res/data/thmb29.png"/>
+<file href="res/data/slide29.js"/>
+<file href="res/data/slide29.css"/>
+<file href="res/data/thmb30.png"/>
+<file href="res/data/slide30.js"/>
+<file href="res/data/slide30.css"/>
+<file href="res/data/thmb31.png"/>
+<file href="res/data/slide31.js"/>
+<file href="res/data/slide31.css"/>
+<file href="res/data/thmb32.png"/>
+<file href="res/data/slide32.js"/>
+<file href="res/data/slide32.css"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/data/scenarioplayer.js"/>
+<file href="res/data/intplayer1.js"/>
+<file href="res/data/intplayer2.js"/>
+<file href="res/data/intplayer3.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt10.woff"/>
+<file href="res/data/fnt11.woff"/>
+<file href="res/data/fnt12.woff"/>
+<file href="res/data/fnt13.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/fnt8.woff"/>
+<file href="res/data/fnt9.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/img0.png"/>
+<file href="res/data/img1.jpg"/>
+<file href="res/data/img10.png"/>
+<file href="res/data/img11.png"/>
+<file href="res/data/img12.jpg"/>
+<file href="res/data/img13.png"/>
+<file href="res/data/img14.png"/>
+<file href="res/data/img15.png"/>
+<file href="res/data/img16.png"/>
+<file href="res/data/img17.png"/>
+<file href="res/data/img18.gif"/>
+<file href="res/data/img19.jpg"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img20.gif"/>
+<file href="res/data/img21.png"/>
+<file href="res/data/img22.png"/>
+<file href="res/data/img23.png"/>
+<file href="res/data/img24.png"/>
+<file href="res/data/img25.png"/>
+<file href="res/data/img26.png"/>
+<file href="res/data/img27.png"/>
+<file href="res/data/img28.png"/>
+<file href="res/data/img29.png"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img30.png"/>
+<file href="res/data/img31.png"/>
+<file href="res/data/img32.png"/>
+<file href="res/data/img33.png"/>
+<file href="res/data/img34.png"/>
+<file href="res/data/img35.png"/>
+<file href="res/data/img36.png"/>
+<file href="res/data/img37.png"/>
+<file href="res/data/img38.png"/>
+<file href="res/data/img39.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img40.gif"/>
+<file href="res/data/img41.png"/>
+<file href="res/data/img42.png"/>
+<file href="res/data/img43.jpg"/>
+<file href="res/data/img44.png"/>
+<file href="res/data/img45.png"/>
+<file href="res/data/img46.png"/>
+<file href="res/data/img47.png"/>
+<file href="res/data/img48.jpg"/>
+<file href="res/data/img49.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/img50.png"/>
+<file href="res/data/img51.png"/>
+<file href="res/data/img52.png"/>
+<file href="res/data/img53.png"/>
+<file href="res/data/img54.jpg"/>
+<file href="res/data/img55.png"/>
+<file href="res/data/img56.jpg"/>
+<file href="res/data/img57.png"/>
+<file href="res/data/img58.png"/>
+<file href="res/data/img59.png"/>
+<file href="res/data/img6.png"/>
+<file href="res/data/img60.png"/>
+<file href="res/data/img61.jpg"/>
+<file href="res/data/img62.jpg"/>
+<file href="res/data/img63.jpg"/>
+<file href="res/data/img64.jpg"/>
+<file href="res/data/img65.png"/>
+<file href="res/data/img66.png"/>
+<file href="res/data/img67.jpg"/>
+<file href="res/data/img68.jpg"/>
+<file href="res/data/img69.jpg"/>
+<file href="res/data/img7.png"/>
+<file href="res/data/img70.jpg"/>
+<file href="res/data/img71.jpg"/>
+<file href="res/data/img72.jpg"/>
+<file href="res/data/img8.gif"/>
+<file href="res/data/img9.png"/>
+</resource>
+</resources>
+</manifest>
